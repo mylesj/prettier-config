@@ -13,5 +13,5 @@ $ npm install --dev @mylesj/prettier-config
 **Configure `.prettierrc`**:
 
 ```text
-"@myles/prettier-config"
+"@mylesj/prettier-config"
 ```
