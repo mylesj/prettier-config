@@ -1,0 +1,9 @@
+{
+    "name": "@mylesj/prettier-config",
+    "version": "1.0.0",
+    "description": "personal preferences for .prettierrc config",
+    "author": "mylesj <hi@mylesj.dev>",
+    "license": "ISC",
+    "main": ".prettierrc.json",
+    "scripts": {}
+}
